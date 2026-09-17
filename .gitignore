@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+
+# Reverse-engineering artifacts from the NVR (not part of the tool)
+app_js.js
+conf_js.js
+dmk_permission.xml
+nvr_config.box
+export_config.tar
+box_extract/
